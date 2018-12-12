@@ -230,5 +230,7 @@ footer{
 
   #newsletter a{
     float:center;
+    font-size:small;
+    background-size:cover;
   }
 }
