@@ -33,6 +33,21 @@ ul{
   margin-bottom:10px;
 }
 
+.left{
+  position:absolute;
+  top:400px;
+  left:100px;
+  text-align:center;
+}
+
+.right{
+  position:absolute;
+  top:400px;
+  left:800px;
+  text-align: center;
+}
+
+
 /* Header */
 header{
   background:#35424a;
@@ -96,6 +111,24 @@ header a:hover{
   font-size:20px;
 }
 
+/* PORTFOLIO */
+#portfolio{
+  color:#008000;
+  background:#f4f4f4;
+  margin-bottom:700px;
+}
+
+#portfolio img{
+  width:400px;
+  height:290px;
+  align-items: center;
+  border: #000000 3px solid;
+}
+
+#portfolio a{
+  text-decoration: none;
+  color: #000000;
+}
 /* Newsletter */
 #newsletter{
   padding:15px;
